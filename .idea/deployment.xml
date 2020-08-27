@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="laravel-6-beginner">
+    <serverData>
+      <paths name="laravel-6-beginner">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="mysite01" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
