@@ -17,9 +17,7 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/help', function () {
-    return 'Help me!';
-});
+Route::resource('category', 'CategoryController');
 
 Route::get('/about', function (){
     return 'About us';
